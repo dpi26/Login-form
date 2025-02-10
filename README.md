@@ -7,4 +7,4 @@ hello dipti where the program are written and written in php.
 and use the mysql and xam server.
 this is very useful.
 this is very useful to using this process .
-in this program we use if, else condition
+in this program we use if, else condition and for loop
